@@ -20,6 +20,7 @@ import { Link } from './Link';
 import { PageLayout } from './PageLayout';
 import { PagedPostsSection } from './PagedPostsSection';
 import { Person } from './Person';
+import { County } from './County';
 import { PostFeedLayout } from './PostFeedLayout';
 import { PostFeedSection } from './PostFeedSection';
 import { PostLayout } from './PostLayout';
@@ -66,6 +67,7 @@ export const allModels = {
     PageLayout,
     PagedPostsSection,
     Person,
+    County,
     PostFeedLayout,
     PostFeedSection,
     PostLayout,
